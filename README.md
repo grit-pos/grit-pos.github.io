@@ -1,2 +1,9 @@
-# grit-pos.github.io
-Official download and update page for HandTerminal Android application.
+# 핸드터미널 공식 업데이트
+
+홈플러스 익스프레스 핸드터미널의 공식 업데이트를 지원합니다.
+
+이 페이지에서는 최신 버전 확인과 설치 파일 다운로드가 가능합니다.
+
+---
+
+**운영 및 배포:** GRIT POS
